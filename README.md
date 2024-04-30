@@ -16,14 +16,20 @@ Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom
 
 Outputnya :
 
+> Halaman Home
 ![Screenshot 2024-04-30 205953](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/0cac7991-e539-4fc0-a717-acb9e9ab1bfd)
 
 ![Screenshot 2024-04-30 205941](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/d81f1663-beec-4477-afcf-06e3295e3ae2)
 
 ![Screenshot 2024-04-30 210003](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/e2c7470a-c2af-4fde-aa8c-1b839da144b6)
 
+> Halaman Artikel
+![Screenshot 2024-04-30 210015](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/a85c48aa-40e3-4d3f-a7a0-6ca2096d9b55)
+
+> Halaman About
 ![Screenshot 2024-04-30 210025](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/b5a3abf6-a787-4464-bbdb-7198fcbd3742)
 
+> Halaman Contact
 ![Screenshot 2024-04-30 210031](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/3cbf4ee0-254d-459a-aa82-281a0aa2b50e)
 
 
