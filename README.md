@@ -11,29 +11,22 @@ Mata Kuliah : Pemograman Web 2
 Dosen Pengampu : Agung Nugroho, S.Kom., M.Kom
 
 ## Tugas
-
 ![Screenshot 2024-04-30 205829](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/271ce395-943c-4d2b-a0ab-0879555415e4)
 
-Outputnya :
 
-> Halaman Home
-![Screenshot 2024-04-30 205953](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/0cac7991-e539-4fc0-a717-acb9e9ab1bfd)
+### Output
 
-![Screenshot 2024-04-30 205941](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/d81f1663-beec-4477-afcf-06e3295e3ae2)
+![Screenshot 2024-05-02 114402](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/c1d2574e-887a-4162-9078-49517142800b)
 
-![Screenshot 2024-04-30 210003](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/e2c7470a-c2af-4fde-aa8c-1b839da144b6)
+![Screenshot 2024-05-02 114542](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/856dd08c-4e29-41ba-a3ed-b12e5932e31f)
 
-> Halaman Artikel
-![Screenshot 2024-04-30 210015](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/a85c48aa-40e3-4d3f-a7a0-6ca2096d9b55)
+![Screenshot 2024-05-02 114547](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/25cf23f5-baf9-4ccf-a71f-c7c3405ccb35)
 
-> Halaman About
-![Screenshot 2024-04-30 210025](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/b5a3abf6-a787-4464-bbdb-7198fcbd3742)
+![Screenshot 2024-05-02 114425](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/d9778d7a-5a73-4570-b1a4-85122be0b4e4)
 
-> Halaman Contact
-![Screenshot 2024-04-30 210031](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/3cbf4ee0-254d-459a-aa82-281a0aa2b50e)
+![Screenshot 2024-05-02 114440](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/2b3c226f-7c6b-4122-aca1-417082e22264)
+
+![Screenshot 2024-05-02 114446](https://github.com/VivieZuliani/07ModulWeb2_VivieZulianiE/assets/130271255/dd73feeb-f5e6-4992-b645-4d66907a44fd)
 
 
-
-
-
-
+Selesai
